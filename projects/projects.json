@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Calculator",
+        "description": "A simple calculator built with HTML, CSS, and JavaScript featuring basic arithmetic operations and a clean interface.",
+        "folder": "calculator",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "demoUrl": "./projects/calculator/index.html",
+        "codeUrl": "./projects/calculator/",
+        "category": "Web Development",
+        "completed": "2024-01-15"
+    }
+]
